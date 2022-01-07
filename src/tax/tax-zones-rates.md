@@ -60,6 +60,18 @@ Leave this field empty if you want to use the tax identifier.
 
 ## Delete tax rate
 
+There are two methods for deleting a tax rate -- from the grid and on the edit page.
+
+**Method 1:** In the _Tax Zones and Rates_ grid
+
+1. In the list, select the checkbox of the tax rate to be deleted.
+
+1. In the upper-left corner of the list, set **Actions** to `Delete`.
+
+1. When complete, click <span class="btn">Submit</span>.
+
+**Method 2:** On the _Edit a Tax Zones and Rates_ page
+
 1. On the _Admin_ sidebar, go to **Stores** > _Taxes_ > **Tax Zones and Rates**.
 
 1. Find the tax rate to be deleted and open it in edit mode.
